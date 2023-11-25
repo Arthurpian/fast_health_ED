@@ -20,7 +20,7 @@ MPU6050
 Board-SSD1306
 
 ### Vídeo Explicativo
-
+https://youtu.be/rVMjQ3QapFA
 
 ### Simulação Wowki
-https://wokwi.com/projects/382035566355957761
+https://wokwi.com/projects/382325710885414913
